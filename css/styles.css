@@ -1,0 +1,67 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: georgia, serif;
+}
+
+nav {
+	float:right;
+	width:70%;
+	margin: 1em 1em 0 0;
+}
+
+nav a {
+	padding:20px;
+	color: white;
+	background-color: black;
+	text-decoration: none;
+}
+
+main {
+	clear: left;
+}
+
+#textColumn {
+	float: right;
+	width: 45%;
+	margin: 1%;
+}
+#schoolColumn {
+	float: left;
+	width: 45%;
+	margin: 1%;
+}
+#picColumn {
+	float: right;
+	width: 45%;
+	margin: 1%;
+}
+#contactColumn {
+	float: left;
+	width: 45%;
+	margin: 1%;
+}
+.borderedimage {
+
+	border: 1px solid white;
+
+	padding: 5px;
+
+	margin: 10px;
+}
+	
+#rightColumn{
+	float: left;
+	width: 45%;
+	margin: 2%;
+	
+}
+footer {
+	clear: both;
+	text-align: center;
+}
+#exColumn {
+	float: left;
+	width: 45%;
+	margin: 1%;
+}
